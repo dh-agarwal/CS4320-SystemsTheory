@@ -1,5 +1,5 @@
 # CS4320-SystemsTheory
-# Dhruv Agarwal
+# Dhruv Agarwal - Cambridge Analytica's use of fake social media accounts to influence the 2016 presidential vote in the United States of America
 
   During the 2016 election between Hilary Cliton and Donald Trump, Cambridge Analytica collected data on millions of Facebook users without them knowing- a breach of privacy. Facebook was also aware of all of this while it was happening, and was fined $5 billion as a result of the breach of privacy. After collecting data on these users, Cambridge Analytica was hired by political leaders such as Donald Trump to target specific user's with personalized ads, which as a result influenced their voting in the 2016 election. Had this not happened, the election might have swung the other way. Facebook users were not aware they were being fed personalized, misleading ads.
 
